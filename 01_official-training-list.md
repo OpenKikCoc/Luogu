@@ -2,7 +2,9 @@
 
 >   【思路比较显然、没什么提升】 的题目暂时被跳过
 
-
+>   TODO LIST:
+>
+>   1.  扫描线专题
 
 
 ## [【入门1】顺序结构](https://www.luogu.com.cn/training/100)
@@ -247,7 +249,7 @@
 | [蜜蜂路线](https://www.luogu.com.cn/problem/P2437)           | [here](./Problems/P2437.md) | 思维 转化为斐波那契              |
 | [小A点菜](https://www.luogu.com.cn/problem/P1164)            | [here](./Problems/P1164.md) |                                  |
 | [NOIP2002 普及组 选数](https://www.luogu.com.cn/problem/P1036) | [here](./Problems/P1036.md) |                                  |
-| [覆盖墙壁](https://www.luogu.com.cn/problem/P1990)           | [here](./Problems/P1990.md) | 经典 推导                        |
+| [覆盖墙壁](https://www.luogu.com.cn/problem/P1990)           | [here](./Problems/P1990.md) | **经典**<br/>推导                |
 | [USACO17JAN Secret Cow Code S](https://www.luogu.com.cn/problem/P3612) | [here](./Problems/P3612.md) | 数学推导                         |
 | [黑白棋子的移动](https://www.luogu.com.cn/problem/P1259)     |                             | 有规律的模拟                     |
 | [NOIP1998 普及组 幂次方](https://www.luogu.com.cn/problem/P1010) | [here](./Problems/P1010.md) | trick                            |
@@ -260,21 +262,21 @@
 
 
 
-| 题目                                                         | 题解                        | NOTE        |
-| ------------------------------------------------------------ | --------------------------- | ----------- |
-| [【深基12.例1】部分背包问题](https://www.luogu.com.cn/problem/P2240) | [here](./Problems/P2240.md) | 微扰        |
-| [排队接水](https://www.luogu.com.cn/problem/P1223)           | [here](./Problems/P1223.md) |             |
-| [凌乱的yyy / 线段覆盖](https://www.luogu.com.cn/problem/P1803) | [here](./Problems/P1803.md) |             |
-| [ [NOIP2004 提高组] 合并果子 / [USACO06NOV] Fence Repair G](https://www.luogu.com.cn/problem/P1090) | [here](./Problems/P1090.md) |             |
-| [小A的糖果](https://www.luogu.com.cn/problem/P3817)          | [here](./Problems/P3817.md) |             |
-| [删数问题](https://www.luogu.com.cn/problem/P1106)           | [here](./Problems/P1106.md) | 经典单调栈  |
-| [陶陶摘苹果（升级版）](https://www.luogu.com.cn/problem/P1478) | [here](./Problems/P1478.md) |             |
-| [[NOIP2018 提高组] 铺设道路](https://www.luogu.com.cn/problem/P5019) | [here](./Problems/P5019.md) | 经典贪心    |
-| [[USACO1.3]混合牛奶 Mixing Milk](https://www.luogu.com.cn/problem/P1208) | [here](./Problems/P1208.md) |             |
-| [[NOIP2007 普及组] 纪念品分组](https://www.luogu.com.cn/problem/P1094) | [here](./Problems/P1094.md) |             |
-| [跳跳！](https://www.luogu.com.cn/problem/P4995)             | [here](./Problems/P4995.md) |             |
-| [[AHOI2018初中组]分组](https://www.luogu.com.cn/problem/P4447) | [here](./Problems/P4447.md) | **推导**    |
-| [[NOIP2012 提高组] 国王游戏](https://www.luogu.com.cn/problem/P1080) | [here](./Problems/P1080.md) | 微扰 高精度 |
+| 题目                                                         | 题解                        | NOTE                |
+| ------------------------------------------------------------ | --------------------------- | ------------------- |
+| [【深基12.例1】部分背包问题](https://www.luogu.com.cn/problem/P2240) | [here](./Problems/P2240.md) | 微扰                |
+| [排队接水](https://www.luogu.com.cn/problem/P1223)           | [here](./Problems/P1223.md) |                     |
+| [凌乱的yyy / 线段覆盖](https://www.luogu.com.cn/problem/P1803) | [here](./Problems/P1803.md) |                     |
+| [ [NOIP2004 提高组] 合并果子 / [USACO06NOV] Fence Repair G](https://www.luogu.com.cn/problem/P1090) | [here](./Problems/P1090.md) |                     |
+| [小A的糖果](https://www.luogu.com.cn/problem/P3817)          | [here](./Problems/P3817.md) |                     |
+| [删数问题](https://www.luogu.com.cn/problem/P1106)           | [here](./Problems/P1106.md) | **经典**<br/>单调栈 |
+| [陶陶摘苹果（升级版）](https://www.luogu.com.cn/problem/P1478) | [here](./Problems/P1478.md) |                     |
+| [[NOIP2018 提高组] 铺设道路](https://www.luogu.com.cn/problem/P5019) | [here](./Problems/P5019.md) | **经典**<br/>贪心   |
+| [[USACO1.3]混合牛奶 Mixing Milk](https://www.luogu.com.cn/problem/P1208) | [here](./Problems/P1208.md) |                     |
+| [[NOIP2007 普及组] 纪念品分组](https://www.luogu.com.cn/problem/P1094) | [here](./Problems/P1094.md) |                     |
+| [跳跳！](https://www.luogu.com.cn/problem/P4995)             | [here](./Problems/P4995.md) |                     |
+| [[AHOI2018初中组]分组](https://www.luogu.com.cn/problem/P4447) | [here](./Problems/P4447.md) | **推导**            |
+| [[NOIP2012 提高组] 国王游戏](https://www.luogu.com.cn/problem/P1080) | [here](./Problems/P1080.md) | 微扰 高精度         |
 
 
 
@@ -286,19 +288,19 @@
 
 
 
-| 题目                                                         | 题解                        | NOTE           |
-| ------------------------------------------------------------ | --------------------------- | -------------- |
-| [【深基13.例1】查找](https://www.luogu.com.cn/problem/P2249) | [here](./Problems/P2249.md) |                |
-| [A-B 数对](https://www.luogu.com.cn/problem/P1102)           | [here](./Problems/P1102.md) |                |
-| [砍树](https://www.luogu.com.cn/problem/P1873)               | [here](./Problems/P1873.md) |                |
-| [[NOIP2001 提高组] 一元三次方程求解](https://www.luogu.com.cn/problem/P1024) | [here](./Problems/P1024.md) | 牛顿迭代       |
-| [烦恼的高考志愿](https://www.luogu.com.cn/problem/P1678)     | [here](./Problems/P1678.md) |                |
-| [木材加工](https://www.luogu.com.cn/problem/P2440)           | [here](./Problems/P2440.md) |                |
-| [[NOIP2015 提高组] 跳石头](https://www.luogu.com.cn/problem/P2678) | [here](./Problems/P2678.md) | 经典单调性二分 |
-| [[TJOI2007]路标设置](https://www.luogu.com.cn/problem/P3853) | [here](./Problems/P3853.md) |                |
-| [数列分段 Section II](https://www.luogu.com.cn/problem/P1182) | [here](./Problems/P1182.md) |                |
-| [银行贷款](https://www.luogu.com.cn/problem/P1163)           | [here](./Problems/P1163.md) |                |
-| [kotori的设备](https://www.luogu.com.cn/problem/P3743)       | [here](./Problems/P3743.md) |                |
+| 题目                                                         | 题解                        | NOTE                    |
+| ------------------------------------------------------------ | --------------------------- | ----------------------- |
+| [【深基13.例1】查找](https://www.luogu.com.cn/problem/P2249) | [here](./Problems/P2249.md) |                         |
+| [A-B 数对](https://www.luogu.com.cn/problem/P1102)           | [here](./Problems/P1102.md) |                         |
+| [砍树](https://www.luogu.com.cn/problem/P1873)               | [here](./Problems/P1873.md) |                         |
+| [[NOIP2001 提高组] 一元三次方程求解](https://www.luogu.com.cn/problem/P1024) | [here](./Problems/P1024.md) | **经典**<br/>牛顿迭代   |
+| [烦恼的高考志愿](https://www.luogu.com.cn/problem/P1678)     | [here](./Problems/P1678.md) |                         |
+| [木材加工](https://www.luogu.com.cn/problem/P2440)           | [here](./Problems/P2440.md) |                         |
+| [[NOIP2015 提高组] 跳石头](https://www.luogu.com.cn/problem/P2678) | [here](./Problems/P2678.md) | **经典**<br/>单调性二分 |
+| [[TJOI2007]路标设置](https://www.luogu.com.cn/problem/P3853) | [here](./Problems/P3853.md) |                         |
+| [数列分段 Section II](https://www.luogu.com.cn/problem/P1182) | [here](./Problems/P1182.md) |                         |
+| [银行贷款](https://www.luogu.com.cn/problem/P1163)           | [here](./Problems/P1163.md) |                         |
+| [kotori的设备](https://www.luogu.com.cn/problem/P3743)       | [here](./Problems/P3743.md) |                         |
 
 
 
@@ -306,24 +308,24 @@
 
 
 
-| 题目                                                         | 题解                        | NOTE       |
-| ------------------------------------------------------------ | --------------------------- | ---------- |
-| [[USACO1.5]八皇后 Checker Challenge](https://www.luogu.com.cn/problem/P1219) |                             |            |
-| [kkksc03考前临时抱佛脚](https://www.luogu.com.cn/problem/P2392) | [here](./Problems/P2392.md) |            |
-| [马的遍历](https://www.luogu.com.cn/problem/P1443)           |                             |            |
-| [奇怪的电梯](https://www.luogu.com.cn/problem/P1135)         |                             |            |
-| [[USACO08FEB]Meteor Shower S](https://www.luogu.com.cn/problem/P2895) |                             |            |
-| [[NOIP2002 普及组] 选数](https://www.luogu.com.cn/problem/P1036) | [here](./Problems/P1036.md) |            |
-| [[COCI2008-2009#2] PERKET](https://www.luogu.com.cn/problem/P2036) | [here](./Problems/P2036.md) |            |
-| [吃奶酪](https://www.luogu.com.cn/problem/P1433)             | [here](./Problems/P1433.md) | 经典状压dp |
-| [迷宫](https://www.luogu.com.cn/problem/P1605)               |                             |            |
-| [[NOIP2000 提高组] 单词接龙](https://www.luogu.com.cn/problem/P1019) |                             |            |
-| [单词方阵](https://www.luogu.com.cn/problem/P1101)           |                             |            |
-| [自然数的拆分问题](https://www.luogu.com.cn/problem/P2404)   |                             |            |
-| [[USACO10OCT]Lake Counting S](https://www.luogu.com.cn/problem/P1596) |                             |            |
-| [填涂颜色](https://www.luogu.com.cn/problem/P1162)           |                             |            |
-| [[NOIP2002 提高组] 字串变换](https://www.luogu.com.cn/problem/P1032) |                             |            |
-| [[USACO11OPEN]Corn Maze S](https://www.luogu.com.cn/problem/P1825) |                             |            |
+| 题目                                                         | 题解                        | NOTE                |
+| ------------------------------------------------------------ | --------------------------- | ------------------- |
+| [[USACO1.5]八皇后 Checker Challenge](https://www.luogu.com.cn/problem/P1219) |                             |                     |
+| [kkksc03考前临时抱佛脚](https://www.luogu.com.cn/problem/P2392) | [here](./Problems/P2392.md) |                     |
+| [马的遍历](https://www.luogu.com.cn/problem/P1443)           |                             |                     |
+| [奇怪的电梯](https://www.luogu.com.cn/problem/P1135)         |                             |                     |
+| [[USACO08FEB]Meteor Shower S](https://www.luogu.com.cn/problem/P2895) |                             |                     |
+| [[NOIP2002 普及组] 选数](https://www.luogu.com.cn/problem/P1036) | [here](./Problems/P1036.md) |                     |
+| [[COCI2008-2009#2] PERKET](https://www.luogu.com.cn/problem/P2036) | [here](./Problems/P2036.md) |                     |
+| [吃奶酪](https://www.luogu.com.cn/problem/P1433)             | [here](./Problems/P1433.md) | **经典**<br/>状压dp |
+| [迷宫](https://www.luogu.com.cn/problem/P1605)               |                             |                     |
+| [[NOIP2000 提高组] 单词接龙](https://www.luogu.com.cn/problem/P1019) |                             |                     |
+| [单词方阵](https://www.luogu.com.cn/problem/P1101)           |                             |                     |
+| [自然数的拆分问题](https://www.luogu.com.cn/problem/P2404)   |                             |                     |
+| [[USACO10OCT]Lake Counting S](https://www.luogu.com.cn/problem/P1596) |                             |                     |
+| [填涂颜色](https://www.luogu.com.cn/problem/P1162)           |                             |                     |
+| [[NOIP2002 提高组] 字串变换](https://www.luogu.com.cn/problem/P1032) |                             |                     |
+| [[USACO11OPEN]Corn Maze S](https://www.luogu.com.cn/problem/P1825) |                             |                     |
 
 
 
@@ -331,18 +333,18 @@
 
 
 
-| 题目                                                         | 题解                        | NOTE           |
-| ------------------------------------------------------------ | --------------------------- | -------------- |
-| [【深基15.例1】询问学号](https://www.luogu.com.cn/problem/P3156) | [here](./Problems/P3156.md) |                |
-| [【深基15.例2】寄包柜](https://www.luogu.com.cn/problem/P3613) | [here](./Problems/P3613.md) |                |
-| [后缀表达式](https://www.luogu.com.cn/problem/P1449)         | [here](./Problems/P1449.md) | 经典表达式计算 |
-| [约瑟夫问题](https://www.luogu.com.cn/problem/P1996)         | [here](./Problems/P1996.md) |                |
-| [队列安排](https://www.luogu.com.cn/problem/P1160)           |                             |                |
-| [[NOIP2010 提高组] 机器翻译](https://www.luogu.com.cn/problem/P1540) |                             |                |
-| [[NOIP2016 普及组] 海港](https://www.luogu.com.cn/problem/P2058) |                             |                |
-| [括号序列](https://www.luogu.com.cn/problem/P1241)           |                             |                |
-| [【深基15.习9】验证栈序列](https://www.luogu.com.cn/problem/P4387) | [here](./Problems/P4387.md) |                |
-| [[HNOI2002]营业额统计](https://www.luogu.com.cn/problem/P2234) | [here](./Problems/P2234.md) |                |
+| 题目                                                         | 题解                        | NOTE                    |
+| ------------------------------------------------------------ | --------------------------- | ----------------------- |
+| [【深基15.例1】询问学号](https://www.luogu.com.cn/problem/P3156) | [here](./Problems/P3156.md) |                         |
+| [【深基15.例2】寄包柜](https://www.luogu.com.cn/problem/P3613) | [here](./Problems/P3613.md) |                         |
+| [后缀表达式](https://www.luogu.com.cn/problem/P1449)         | [here](./Problems/P1449.md) | **经典**<br/>表达式计算 |
+| [约瑟夫问题](https://www.luogu.com.cn/problem/P1996)         | [here](./Problems/P1996.md) |                         |
+| [队列安排](https://www.luogu.com.cn/problem/P1160)           |                             |                         |
+| [[NOIP2010 提高组] 机器翻译](https://www.luogu.com.cn/problem/P1540) |                             |                         |
+| [[NOIP2016 普及组] 海港](https://www.luogu.com.cn/problem/P2058) |                             |                         |
+| [括号序列](https://www.luogu.com.cn/problem/P1241)           |                             |                         |
+| [【深基15.习9】验证栈序列](https://www.luogu.com.cn/problem/P4387) | [here](./Problems/P4387.md) |                         |
+| [[HNOI2002]营业额统计](https://www.luogu.com.cn/problem/P2234) | [here](./Problems/P2234.md) |                         |
 
 
 
@@ -350,18 +352,18 @@
 
 
 
-| 题目                                                         | 题解                        | NOTE          |
-| ------------------------------------------------------------ | --------------------------- | ------------- |
-| [【深基16.例1】淘汰赛](https://www.luogu.com.cn/problem/P4715) | [here](./Problems/P4715.md) |               |
-| [【深基16.例3】二叉树深度](https://www.luogu.com.cn/problem/P4913) | [here](./Problems/P4913.md) |               |
-| [[USACO3.4]美国血统 American Heritage](https://www.luogu.com.cn/problem/P1827) | [here](./Problems/P1827.md) |               |
-| [【深基16.例7】普通二叉树（简化版）](https://www.luogu.com.cn/problem/P5076) |                             |               |
-| [医院设置](https://www.luogu.com.cn/problem/P1364)           | [here](./Problems/P1364.md) | 经典换根 树dp |
-| [遍历问题](https://www.luogu.com.cn/problem/P1229)           | [here](./Problems/P4715.md) | 经典树        |
-| [新二叉树](https://www.luogu.com.cn/problem/P1305)           |                             |               |
-| [[NOIP2001 普及组] 求先序排列](https://www.luogu.com.cn/problem/P1030) |                             |               |
-| [[JLOI2009\]二叉树问题](https://www.luogu.com.cn/problem/P3884) | [here](./Problems/P3884.md) | LCA           |
-| [绘制二叉树](https://www.luogu.com.cn/problem/P1185)         |                             |               |
+| 题目                                                         | 题解                        | NOTE                  |
+| ------------------------------------------------------------ | --------------------------- | --------------------- |
+| [【深基16.例1】淘汰赛](https://www.luogu.com.cn/problem/P4715) | [here](./Problems/P4715.md) |                       |
+| [【深基16.例3】二叉树深度](https://www.luogu.com.cn/problem/P4913) | [here](./Problems/P4913.md) |                       |
+| [[USACO3.4]美国血统 American Heritage](https://www.luogu.com.cn/problem/P1827) | [here](./Problems/P1827.md) |                       |
+| [【深基16.例7】普通二叉树（简化版）](https://www.luogu.com.cn/problem/P5076) |                             |                       |
+| [医院设置](https://www.luogu.com.cn/problem/P1364)           | [here](./Problems/P1364.md) | **经典换根**<br/>树dp |
+| [遍历问题](https://www.luogu.com.cn/problem/P1229)           | [here](./Problems/P4715.md) | **经典**<br/>树       |
+| [新二叉树](https://www.luogu.com.cn/problem/P1305)           |                             |                       |
+| [[NOIP2001 普及组] 求先序排列](https://www.luogu.com.cn/problem/P1030) |                             |                       |
+| [[JLOI2009\]二叉树问题](https://www.luogu.com.cn/problem/P3884) | [here](./Problems/P3884.md) | LCA                   |
+| [绘制二叉树](https://www.luogu.com.cn/problem/P1185)         |                             |                       |
 
 
 
@@ -369,23 +371,23 @@
 
 
 
-| 题目                                                         | 题解                        | NOTE              |
-| ------------------------------------------------------------ | --------------------------- | ----------------- |
-| [亲戚](https://www.luogu.com.cn/problem/P1551)               | [here](./Problems/P1551.md) |                   |
-| [村村通](https://www.luogu.com.cn/problem/P1536)             | [here](./Problems/P1536.md) |                   |
-| [【模板】字符串哈希](https://www.luogu.com.cn/problem/P3370) | [here](./Problems/P3370.md) |                   |
-| [[USACO16DEC]Cities and States S](https://www.luogu.com.cn/problem/P3405) | [here](./Problems/P3405.md) |                   |
-| [【深基17.例5】木材仓库](https://www.luogu.com.cn/problem/P5250) | [here](./Problems/P5250.md) |                   |
-| [【深基17.例6】学籍管理](https://www.luogu.com.cn/problem/P5266) | [here](./Problems/P5266.md) |                   |
-| [A-B 数对](https://www.luogu.com.cn/problem/P1102)           | [here](./Problems/P1102.md) |                   |
-| [保龄球](https://www.luogu.com.cn/problem/P1918)             | [here](./Problems/P1918.md) |                   |
-| [[NOIP2010 提高组] 关押罪犯](https://www.luogu.com.cn/problem/P1525) | [here](./Problems/P1525.md) | 经典 二分+二分图  |
-| [集合](https://www.luogu.com.cn/problem/P1621)               | [here](./Problems/P1621.md) | 数学 欧拉筛       |
-| [[BOI2003]团伙](https://www.luogu.com.cn/problem/P1892)      | [here](./Problems/P1892.md) | 经典 并查集与反集 |
-| [[NOI2015] 程序自动分析](https://www.luogu.com.cn/problem/P1955) | [here](./Problems/P1955.md) | 并查集 + 离散化   |
-| [[JLOI2011]不重复数字](https://www.luogu.com.cn/problem/P4305) | [here](./Problems/P4305.md) |                   |
-| [[TJOI2010]阅读理解](https://www.luogu.com.cn/problem/P3879) | [here](./Problems/P3879.md) |                   |
-| [家谱](https://www.luogu.com.cn/problem/P2814)               | [here](./Problems/P2814.md) |                   |
+| 题目                                                         | 题解                        | NOTE                      |
+| ------------------------------------------------------------ | --------------------------- | ------------------------- |
+| [亲戚](https://www.luogu.com.cn/problem/P1551)               | [here](./Problems/P1551.md) |                           |
+| [村村通](https://www.luogu.com.cn/problem/P1536)             | [here](./Problems/P1536.md) |                           |
+| [【模板】字符串哈希](https://www.luogu.com.cn/problem/P3370) | [here](./Problems/P3370.md) |                           |
+| [[USACO16DEC]Cities and States S](https://www.luogu.com.cn/problem/P3405) | [here](./Problems/P3405.md) |                           |
+| [【深基17.例5】木材仓库](https://www.luogu.com.cn/problem/P5250) | [here](./Problems/P5250.md) |                           |
+| [【深基17.例6】学籍管理](https://www.luogu.com.cn/problem/P5266) | [here](./Problems/P5266.md) |                           |
+| [A-B 数对](https://www.luogu.com.cn/problem/P1102)           | [here](./Problems/P1102.md) |                           |
+| [保龄球](https://www.luogu.com.cn/problem/P1918)             | [here](./Problems/P1918.md) |                           |
+| [[NOIP2010 提高组] 关押罪犯](https://www.luogu.com.cn/problem/P1525) | [here](./Problems/P1525.md) | **经典**<br/>二分+二分图  |
+| [集合](https://www.luogu.com.cn/problem/P1621)               | [here](./Problems/P1621.md) | 数学<br/>欧拉筛           |
+| [[BOI2003]团伙](https://www.luogu.com.cn/problem/P1892)      | [here](./Problems/P1892.md) | **经典**<br/>并查集与反集 |
+| [[NOI2015] 程序自动分析](https://www.luogu.com.cn/problem/P1955) | [here](./Problems/P1955.md) | 并查集 + 离散化           |
+| [[JLOI2011]不重复数字](https://www.luogu.com.cn/problem/P4305) | [here](./Problems/P4305.md) |                           |
+| [[TJOI2010]阅读理解](https://www.luogu.com.cn/problem/P3879) | [here](./Problems/P3879.md) |                           |
+| [家谱](https://www.luogu.com.cn/problem/P2814)               | [here](./Problems/P2814.md) |                           |
 
 
 
@@ -412,32 +414,32 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解                        | NOTE                       |
+| ------------------------------------------------------------ | --------------------------- | -------------------------- |
+| [进制转换](https://www.luogu.com.cn/problem/P1143)           |                             |                            |
+| [找筷子](https://www.luogu.com.cn/problem/P1469)             |                             |                            |
+| [高低位交换](https://www.luogu.com.cn/problem/P1100)         | [here](./Problems/P1100.md) | 位运算trick                |
+| [[NOIP2000 提高组] 进制转换](https://www.luogu.com.cn/problem/P1017) | [here](./Problems/P1017.md) | 负进制                     |
+| [编号](https://www.luogu.com.cn/problem/P1866)               | [here](./Problems/P1866.md) | 简单思维                   |
+| [[NOIP2016 提高组] 组合数问题](https://www.luogu.com.cn/problem/P2822) | [here](./Problems/P2822.md) | 思维<br/>组合数 前缀和     |
+| [直线交点数](https://www.luogu.com.cn/problem/P2789)         | [here](./Problems/P2789.md) | **二维平面直线的经典问题** |
+| [车的攻击](https://www.luogu.com.cn/problem/P3913)           | [here](./Problems/P3913.md) | 简单容斥                   |
+| [安全系统](https://www.luogu.com.cn/problem/P2638)           | [here](./Problems/P2638.md) | **经典**<br/>组合原理应用  |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
+|                                                              |                             |                            |
 
 
 
@@ -445,15 +447,15 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解                        | NOTE                                                 |
+| ------------------------------------------------------------ | --------------------------- | ---------------------------------------------------- |
+| [[NOIP2015 普及组] 求和](https://www.luogu.com.cn/problem/P2671) | [here](./Problems/P2671.md) | 思维<br>**经验：O(n^2) 公式转化利用前缀和达到 O(n)** |
+| [最大子段和](https://www.luogu.com.cn/problem/P1115)         |                             |                                                      |
+| [地毯](https://www.luogu.com.cn/problem/P3397)               | [here](./Problems/P3397.md) | **经典**<br/>二维差分                                |
+| [海底高铁](https://www.luogu.com.cn/problem/P3406)           |                             | 差分统计每段次数 逐段比较买票还是买卡即可<br/>略     |
+| [最大加权矩形](https://www.luogu.com.cn/problem/P1719)       | [here](./Problems/P1719.md) | **经典**<br/>二维最大子矩阵                          |
+| [领地选择](https://www.luogu.com.cn/problem/P2004)           |                             | 首都边长固定 O(n^2) 枚举即可<br/>略                  |
+| [【CSGRound2】光骓者的荣耀](https://www.luogu.com.cn/problem/P5638) |                             | 前缀和处理 枚举在哪个位置跳k即可<br/>略              |
 
 
 
@@ -461,22 +463,22 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解                        | NOTE                                                     |
+| ------------------------------------------------------------ | --------------------------- | -------------------------------------------------------- |
+| [长方形](https://www.luogu.com.cn/problem/P1950)             | [here](./Problems/P1950.md) | **经典最大矩形**<br>计算细节                             |
+| [扫描](https://www.luogu.com.cn/problem/P2032)               |                             | 滑动窗口最值<br/>略                                      |
+| [求m区间内的最小值](https://www.luogu.com.cn/problem/P1440)  |                             | 滑动窗口最值<br/>略                                      |
+| [滑动窗口 /【模板】单调队列](https://www.luogu.com.cn/problem/P1886) |                             | 略                                                       |
+| [[USACO16OPEN]Diamond Collector S](https://www.luogu.com.cn/problem/P3143) |                             | 排序 窗口维护最大差值即可<br/>略                         |
+| [逛画展](https://www.luogu.com.cn/problem/P1638)             |                             | 窗口维护当前看到的名师个数即可<br/>略                    |
+| [A-B 数对](https://www.luogu.com.cn/problem/P1102)           |                             |                                                          |
+| [寻找段落](https://www.luogu.com.cn/problem/P1419)           | [here](./Problems/P1419.md) | **经典**<br>维护 idx 之前 [s, t] 长度的区间窗口          |
+| [[USACO07MAR]Face The Right Way G](https://www.luogu.com.cn/problem/P2882) | [here](./Problems/P2882.md) | **经典**<br>**反转问题/开关问题**<br>贪心 动态维护       |
+| [连续自然数和](https://www.luogu.com.cn/problem/P1147)       | [here](./Problems/P1147.md) | 双指针实现 O(n)                                          |
+| [[USACO17DEC]My Cow Ate My Homework S](https://www.luogu.com.cn/problem/P4086) |                             | 简单逆序前缀和并维护最小值即可<br/>略                    |
+| [[USACO15OPEN]Trapped in the Haybales S](https://www.luogu.com.cn/problem/P3124) | [here](./Problems/P3124.md) | **经典**<br>**十分经典的双指针算法流程优化**             |
+| [火烧赤壁](https://www.luogu.com.cn/problem/P1496)           |                             | 离散化or区间合并即可<br/>略                              |
+| [[USACO12FEB]Overplanting S](https://www.luogu.com.cn/problem/P1884) | [here](./Problems/P1884.md) | **经典扫描线**<br>扫描线求矩形并 **进阶:扫描线求矩形交** |
 
 
 
@@ -484,25 +486,25 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解                        | NOTE                           |
+| ------------------------------------------------------------ | --------------------------- | ------------------------------ |
+| [【模板】快速排序](https://www.luogu.com.cn/problem/P1177)   |                             |                                |
+| [逆序对](https://www.luogu.com.cn/problem/P1908)             |                             |                                |
+| [[NOIP2013 提高组] 火柴排队](https://www.luogu.com.cn/problem/P1966) | [here](./Problems/P1966.md) | **经典**<br>推理转化为求逆序对 |
+| [【模板】快速幂\|\|取余运算](https://www.luogu.com.cn/problem/P1226) |                             |                                |
+| [[NOIP2003 普及组] 麦森数](https://www.luogu.com.cn/problem/P1045) |                             |                                |
+| [最大子段和](https://www.luogu.com.cn/problem/P1115)         |                             |                                |
+| [集合求和](https://www.luogu.com.cn/problem/P2415)           |                             |                                |
+| [[HNOI2008]越狱](https://www.luogu.com.cn/problem/P3197)     |                             | 简单容斥 组合数<br>略          |
+| [平面上的最接近点对](https://www.luogu.com.cn/problem/P1257) | [here](./Problems/P1257.md) | **最经典分治之一**<br>推理排序 |
+| [地毯填补问题](https://www.luogu.com.cn/problem/P1228)       |                             |                                |
+| [[USACO04OPEN]MooFest G](https://www.luogu.com.cn/problem/P2345) |                             | 排序依次计算即可<br>略         |
 
 
 
 ## [【算法2-4】倍增](https://www.luogu.com.cn/training/203)
 
-
+>   TODO
 
 | 题目 | 题解 | NOTE |
 | ---- | ---- | ---- |
@@ -514,7 +516,7 @@
 
 ## [【算法2-5】搜索剪枝策略](https://www.luogu.com.cn/training/204)
 
-
+>   TODO
 
 | 题目 | 题解 | NOTE |
 | ---- | ---- | ---- |
@@ -533,17 +535,17 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解                        | NOTE                                                         |
+| ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ |
+| [黑匣子](https://www.luogu.com.cn/problem/P1801)             |                             | 优先队列模拟即可<br>略                                       |
+| [[NOIP2004 提高组] 合并果子 / [USACO06NOV] Fence Repair G](https://www.luogu.com.cn/problem/P1090) |                             | 略                                                           |
+| [中位数](https://www.luogu.com.cn/problem/P1168)             |                             | 维护对顶堆即可                                               |
+| [最小函数值](https://www.luogu.com.cn/problem/P2085)         |                             | 因其具有单调性<br>当作N个有序数组找前k小堆维护即可           |
+| [序列合并](https://www.luogu.com.cn/problem/P1631)           |                             | **二分总和 + 模拟** 即可<br>有其他实现方案                   |
+| [[JSOI2007]建筑抢修](https://www.luogu.com.cn/problem/P4053) | [here](./Problems/P4053.md) | **经典**<br>**贪心思路推导 + 堆**<br>很多贪心题因其性质都是堆维护 |
+| [舞蹈课](https://www.luogu.com.cn/problem/P1878)             |                             | 模拟即可 成对入堆                                            |
+| [【模板】ST 表](https://www.luogu.com.cn/problem/P3865)      | [here](./Problems/P3865.md) | **RMQ模版题**                                                |
+| [质量检测](https://www.luogu.com.cn/problem/P2251)           |                             | 固定长度的区间最值<br>单调队列 or ST表 都可<br>略            |
 
 
 
@@ -551,20 +553,20 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解                        | NOTE                                                         |
+| ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ |
+| [【模板】线段树 1](https://www.luogu.com.cn/problem/P3372)   | [here](./Problems/P3372.md) | 一般修改和查询                                               |
+| [【模板】线段树 2](https://www.luogu.com.cn/problem/P3373)   | [here](./Problems/P3373.md) | **经典**<br>乘 + 加                                          |
+| [[TJOI2018]数学计算](https://www.luogu.com.cn/problem/P4588) | [here](./Problems/P4588.md) | **独立1A... 思维题**<br>推导知线段树维护每次操作乘积<br>节点维护乘积取模即可 |
+| [窗口的星星](https://www.luogu.com.cn/problem/P1502)         | [here](./Problems/P1502.md) | **经典 思维 转化**<br>考虑两点同窗 则以每个点坐标为坐下角的矩形重叠<br>故转化为求 任意坐标**最多有多少个矩形重叠**<br>也即：区间最值<br>**另外扫描线是特殊的不需要写pushdown的线段树应用** |
+| [[SCOI2007]降雨量](https://www.luogu.com.cn/problem/P2471)   | [here](./Problems/P2471.md) | [线段树 / ST表]的简单应用 数据和细节巨坑                     |
+| [楼房重建](https://www.luogu.com.cn/problem/P4198)           | [here](./Problems/P4198.md) | **思维 将 pushup logN 化**<br>pushup维护的推导<br>**以及何时pushup** |
+| [XOR的艺术](https://www.luogu.com.cn/problem/P2574)          | [here](./Problems/P2574.md) | **经典 标准的lazy线段树**<br>**eval(u)形式**<br>**区别【表示本段的部分】与【表示子段lazy的部分】** |
+| [【模板】树状数组 1](https://www.luogu.com.cn/problem/P3374) | [here](./Problems/P3374.md) | 模版<br>记录值                                               |
+| [【模板】树状数组 2](https://www.luogu.com.cn/problem/P3368) | [here](./Problems/P3368.md) | 模版<br>记录差分                                             |
+| [逆序对](https://www.luogu.com.cn/problem/P1908)             |                             |                                                              |
+| [[NOIP2013 提高组] 火柴排队](https://www.luogu.com.cn/problem/P1966) |                             | 略                                                           |
+| [[GZOI2017]配对统计](https://www.luogu.com.cn/problem/P5677) | [here](./Problems/P5677.md) | **经典**<br>经典的预处理、离线、BIT计数                      |
 
 
 
@@ -572,18 +574,18 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解                        | NOTE                                |
+| ------------------------------------------------------------ | --------------------------- | ----------------------------------- |
+| [[USACO19DEC]Milk Visits S](https://www.luogu.com.cn/problem/P5836) | [here](./Problems/P5836.md) | 标准LCA<br>**有 O(n) 的并查集做法** |
+|                                                              |                             |                                     |
+|                                                              |                             |                                     |
+|                                                              |                             |                                     |
+|                                                              |                             |                                     |
+|                                                              |                             |                                     |
+|                                                              |                             |                                     |
+|                                                              |                             |                                     |
+|                                                              |                             |                                     |
+|                                                              |                             |                                     |
 
 
 
@@ -776,5 +778,4 @@
 |      |      |      |
 |      |      |      |
 |      |      |      |
-
 

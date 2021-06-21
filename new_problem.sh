@@ -9,7 +9,9 @@ if [ $1 != "" ]; then
     target_file="$pwd/Problems"
     to="$pwd/Problems/P$1.md"
 
-    if [ ! -d "$to" ]; then
+    if [ ! -f "$to" ]; then
         cp $from $to
+    else
+        echo "Ignore repeat file."
     fi
 fi
