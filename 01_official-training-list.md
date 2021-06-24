@@ -414,32 +414,32 @@
 
 
 
-| 题目                                                         | 题解                        | NOTE                       |
-| ------------------------------------------------------------ | --------------------------- | -------------------------- |
-| [进制转换](https://www.luogu.com.cn/problem/P1143)           |                             |                            |
-| [找筷子](https://www.luogu.com.cn/problem/P1469)             |                             |                            |
-| [高低位交换](https://www.luogu.com.cn/problem/P1100)         | [here](./Problems/P1100.md) | 位运算trick                |
-| [[NOIP2000 提高组] 进制转换](https://www.luogu.com.cn/problem/P1017) | [here](./Problems/P1017.md) | 负进制                     |
-| [编号](https://www.luogu.com.cn/problem/P1866)               | [here](./Problems/P1866.md) | 简单思维                   |
-| [[NOIP2016 提高组] 组合数问题](https://www.luogu.com.cn/problem/P2822) | [here](./Problems/P2822.md) | 思维<br/>组合数 前缀和     |
-| [直线交点数](https://www.luogu.com.cn/problem/P2789)         | [here](./Problems/P2789.md) | **二维平面直线的经典问题** |
-| [车的攻击](https://www.luogu.com.cn/problem/P3913)           | [here](./Problems/P3913.md) | 简单容斥                   |
-| [安全系统](https://www.luogu.com.cn/problem/P2638)           | [here](./Problems/P2638.md) | **经典**<br/>组合原理应用  |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
-|                                                              |                             |                            |
+| 题目                                                         | 题解                        | NOTE                                             |
+| ------------------------------------------------------------ | --------------------------- | ------------------------------------------------ |
+| [进制转换](https://www.luogu.com.cn/problem/P1143)           |                             |                                                  |
+| [找筷子](https://www.luogu.com.cn/problem/P1469)             |                             |                                                  |
+| [高低位交换](https://www.luogu.com.cn/problem/P1100)         | [here](./Problems/P1100.md) | 位运算trick                                      |
+| [[NOIP2000 提高组] 进制转换](https://www.luogu.com.cn/problem/P1017) | [here](./Problems/P1017.md) | 负进制                                           |
+| [编号](https://www.luogu.com.cn/problem/P1866)               | [here](./Problems/P1866.md) | 简单思维                                         |
+| [[NOIP2016 提高组] 组合数问题](https://www.luogu.com.cn/problem/P2822) | [here](./Problems/P2822.md) | 思维<br/>组合数 前缀和                           |
+| [直线交点数](https://www.luogu.com.cn/problem/P2789)         | [here](./Problems/P2789.md) | **二维平面直线的经典问题**                       |
+| [车的攻击](https://www.luogu.com.cn/problem/P3913)           | [here](./Problems/P3913.md) | 简单容斥                                         |
+| [安全系统](https://www.luogu.com.cn/problem/P2638)           | [here](./Problems/P2638.md) | **经典**<br/>组合原理应用                        |
+| [编码](https://www.luogu.com.cn/problem/P1246)               | [here](./Problems/P1246.md) | **数位dp + 组合数**                              |
+| [[USACO08DEC]Patting Heads S](https://www.luogu.com.cn/problem/P2926) |                             | 统计约束个数 逆向即可<br>略                      |
+| [【模板】线性筛素数](https://www.luogu.com.cn/problem/P3383) | [here](./Problems/P3383.md) | 线性筛模版                                       |
+| [素数密度](https://www.luogu.com.cn/problem/P1835)           | [here](./Problems/P1835.md) | **区间筛模版**<br>注意LL和 `i+l >= 2`            |
+| [[NOIP2001 普及组] 最大公约数和最小公倍数问题](https://www.luogu.com.cn/problem/P1029) | [here](./Problems/P1029.md) | 分解质因数应用                                   |
+| [[NOIP2009 提高组] Hankson 的趣味题](https://www.luogu.com.cn/problem/P1072) | TODO                        |                                                  |
+| [[NOIP2009 普及组] 细胞分裂](https://www.luogu.com.cn/problem/P1069) |                             |                                                  |
+| [计算分数](https://www.luogu.com.cn/problem/P1572)           | [here](./Problems/P1572.md) | 经典字符串模拟                                   |
+| [[Code+#1]晨跑](https://www.luogu.com.cn/problem/P4057)      |                             | 最小公倍数<br>略                                 |
+| [又是毕业季II](https://www.luogu.com.cn/problem/P1414)       | [here](./Problems/P1414.md) | 因子<br>小技巧和思维                             |
+| [添加括号III](https://www.luogu.com.cn/problem/P2651)        | [here](./Problems/P2651.md) | 推导 简化                                        |
+| [zzc 种田](https://www.luogu.com.cn/problem/P2660)           | [here](./Problems/P2660.md) | 显然类似GCD的分治思路<br>注意每次切分多个的优化  |
+| [签到题](https://www.luogu.com.cn/problem/P3601)             | [here](./Problems/P3601.md) | **欧拉函数经典应用**                             |
+| [[AHOI2005]约数研究](https://www.luogu.com.cn/problem/P1403) | [here](./Problems/P1403.md) | **思维 转化**                                    |
+| [因子和](https://www.luogu.com.cn/problem/P1593)             | [here](./Problems/P1593.md) | **经典求约数和**<br>等比数列求和优化<br>实现细节 |
 
 
 
