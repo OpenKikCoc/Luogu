@@ -504,13 +504,13 @@
 
 ## [【算法2-4】倍增](https://www.luogu.com.cn/training/203)
 
->   TODO
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+
+| 题目                                                         | 题解                        | NOTE                                  |
+| ------------------------------------------------------------ | --------------------------- | ------------------------------------- |
+| [[NOIP2012 提高组] 开车旅行](https://www.luogu.com.cn/problem/P1081) | [here](./Problems/P1081.md) | **倍增优化DP**<br>**经典 倍增预处理** |
+| [[USACO07JAN]Balanced Lineup G](https://www.luogu.com.cn/problem/P2880) | [here](./Problems/P2880.md) | **标准RMQ**<br>加强熟练度             |
+| [跑路](https://www.luogu.com.cn/problem/P1613)               | [here](./Problems/P1613.md) | 基础倍增 + floyd                      |
 
 
 
@@ -572,20 +572,20 @@
 
 ## [【图论2-1】基础树上问题](https://www.luogu.com.cn/training/207)
 
+**全是经典题**
 
-
-| 题目                                                         | 题解                        | NOTE                                |
-| ------------------------------------------------------------ | --------------------------- | ----------------------------------- |
-| [[USACO19DEC]Milk Visits S](https://www.luogu.com.cn/problem/P5836) | [here](./Problems/P5836.md) | 标准LCA<br>**有 O(n) 的并查集做法** |
-|                                                              |                             |                                     |
-|                                                              |                             |                                     |
-|                                                              |                             |                                     |
-|                                                              |                             |                                     |
-|                                                              |                             |                                     |
-|                                                              |                             |                                     |
-|                                                              |                             |                                     |
-|                                                              |                             |                                     |
-|                                                              |                             |                                     |
+| 题目                                                         | 题解                              | NOTE                                                         |
+| ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ |
+| [[USACO19DEC]Milk Visits S](https://www.luogu.com.cn/problem/P5836) | [here](./Problems/P5836.md)       | 标准LCA<br>**有 O(n) 的并查集做法**                          |
+| [[NOIP2007 提高组] 树网的核](https://www.luogu.com.cn/problem/P1099) | [here](./Problems/P1099.md) AGAIN | **经典树问题**<br>树直径原理 + 枚举优化 + 二分<br>**反复做** |
+| [[APIO2010]巡逻](https://www.luogu.com.cn/problem/P3629)     | [here](./Problems/P3629.md)       | **对比两种(dfs/dp)求直径的方式**<br>同时使用两种方式<br>**取反计算的trick思维** |
+| [会议](https://www.luogu.com.cn/problem/P1395)               | [here](./Problems/P1395.md)       | 同【医院设置】但更简单<br>因为本题只需计算节点个数即可 每个节点不会有多个权 |
+| [【模板】最近公共祖先（LCA）](https://www.luogu.com.cn/problem/P3379) | [here](./Problems/P3379.md)       | **LCA模版题**                                                |
+| [仓鼠找sugar](https://www.luogu.com.cn/problem/P3398)        | [here](./Problems/P3398.md)       | **判断树上两路径相交的条件**<br>LCA + `高度较低的LCA` 与 `高度较高的两点之一` 的LCA相同即可 |
+| [[AHOI2008]紧急集合 / 聚会](https://www.luogu.com.cn/problem/P4281) | [here](./Problems/P4281.md)       | **LCA + 推导**                                               |
+| [[CSP-S2019] 树的重心](https://www.luogu.com.cn/problem/P5666) | [here](./Problems/P5666.md) AGAIN | **dfs类LCA 经典倍增优化题**<br>**经典 换根 + 倍增**<br>断断续续写了两天独立A掉 好题 |
+| [小猪佩奇爬树](https://www.luogu.com.cn/problem/P5588)       |                                   |                                                              |
+| [【XR-3】核心城市](https://www.luogu.com.cn/problem/P5536)   |                                   |                                                              |
 
 
 
