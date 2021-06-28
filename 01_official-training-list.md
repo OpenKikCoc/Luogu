@@ -574,18 +574,18 @@
 
 **全是经典题**
 
-| 题目                                                         | 题解                              | NOTE                                                         |
-| ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ |
-| [[USACO19DEC]Milk Visits S](https://www.luogu.com.cn/problem/P5836) | [here](./Problems/P5836.md)       | 标准LCA<br>**有 O(n) 的并查集做法**                          |
-| [[NOIP2007 提高组] 树网的核](https://www.luogu.com.cn/problem/P1099) | [here](./Problems/P1099.md) AGAIN | **经典树问题**<br>树直径原理 + 枚举优化 + 二分<br>**反复做** |
-| [[APIO2010]巡逻](https://www.luogu.com.cn/problem/P3629)     | [here](./Problems/P3629.md)       | **对比两种(dfs/dp)求直径的方式**<br>同时使用两种方式<br>**取反计算的trick思维** |
-| [会议](https://www.luogu.com.cn/problem/P1395)               | [here](./Problems/P1395.md)       | 同【医院设置】但更简单<br>因为本题只需计算节点个数即可 每个节点不会有多个权 |
-| [【模板】最近公共祖先（LCA）](https://www.luogu.com.cn/problem/P3379) | [here](./Problems/P3379.md)       | **LCA模版题**                                                |
-| [仓鼠找sugar](https://www.luogu.com.cn/problem/P3398)        | [here](./Problems/P3398.md)       | **判断树上两路径相交的条件**<br>LCA + `高度较低的LCA` 与 `高度较高的两点之一` 的LCA相同即可 |
-| [[AHOI2008]紧急集合 / 聚会](https://www.luogu.com.cn/problem/P4281) | [here](./Problems/P4281.md)       | **LCA + 推导**                                               |
-| [[CSP-S2019] 树的重心](https://www.luogu.com.cn/problem/P5666) | [here](./Problems/P5666.md) AGAIN | **dfs类LCA 经典倍增优化题**<br>**经典 换根 + 倍增**<br>断断续续写了两天独立A掉 好题 |
-| [小猪佩奇爬树](https://www.luogu.com.cn/problem/P5588)       |                                   |                                                              |
-| [【XR-3】核心城市](https://www.luogu.com.cn/problem/P5536)   |                                   |                                                              |
+| 题目                                                         | 题解                                              | NOTE                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
+| [[USACO19DEC]Milk Visits S](https://www.luogu.com.cn/problem/P5836) | [here](./Problems/P5836.md)                       | 标准LCA<br>**有 O(n) 的并查集做法**                          |
+| [[NOIP2007 提高组] 树网的核](https://www.luogu.com.cn/problem/P1099) | [here](./Problems/P1099.md) AGAIN                 | **经典树问题**<br>树直径原理 + 枚举优化 + 二分<br>**反复做** |
+| [[APIO2010]巡逻](https://www.luogu.com.cn/problem/P3629)     | [here](./Problems/P3629.md)                       | **对比两种(dfs/dp)求直径的方式**<br>同时使用两种方式<br>**取反计算的trick思维** |
+| [会议](https://www.luogu.com.cn/problem/P1395)               | [here](./Problems/P1395.md)                       | 同【医院设置】但更简单<br>因为本题只需计算节点个数即可 每个节点不会有多个权 |
+| [【模板】最近公共祖先（LCA）](https://www.luogu.com.cn/problem/P3379) | [here](./Problems/P3379.md)                       | **LCA模版题**                                                |
+| [仓鼠找sugar](https://www.luogu.com.cn/problem/P3398)        | [here](./Problems/P3398.md)                       | **判断树上两路径相交的条件**<br>LCA + `高度较低的LCA` 与 `高度较高的两点之一` 的LCA相同即可 |
+| [[AHOI2008]紧急集合 / 聚会](https://www.luogu.com.cn/problem/P4281) | [here](./Problems/P4281.md)                       | **LCA + 推导**                                               |
+| [[CSP-S2019] 树的重心](https://www.luogu.com.cn/problem/P5666) | [here](./Problems/P5666.md) AGAIN                 | **dfs类LCA 经典倍增优化题**<br>**经典 换根 + 倍增**<br>断断续续写了两天独立A掉 好题 |
+| [小猪佩奇爬树](https://www.luogu.com.cn/problem/P5588)       | [here](./Problems/P5588.md) AGAIN<br>**有细节坑** | **`不管本节点是何类型先累计 最终判断再决定使用哪个` 思维**<br>乘法原理优化<br>**O(n)思路重复做** |
+| [【XR-3】核心城市](https://www.luogu.com.cn/problem/P5536)   | [here](./Problems/P5536.md)                       | **类似拓扑排序的思路即可**<br>题解区有很多用树直径 + 推理贪心的思路 也可 |
 
 
 
@@ -593,15 +593,15 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解 | NOTE                                          |
+| ------------------------------------------------------------ | ---- | --------------------------------------------- |
+| [灾后重建](https://www.luogu.com.cn/problem/P1119)           |      | 根据题中所给的递增性质 逐步 floyd 即可<br>略  |
+| [【模板】单源最短路径（弱化版）](https://www.luogu.com.cn/problem/P3371) |      |                                               |
+| [邮递员送信](https://www.luogu.com.cn/problem/P1629)         |      | 计算返程时反向边跑最短路即可<br>略            |
+| [【模板】单源最短路径（标准版）](https://www.luogu.com.cn/problem/P4779) |      |                                               |
+| [最短路计数](https://www.luogu.com.cn/problem/P1144)         |      |                                               |
+| [通往奥格瑞玛的道路](https://www.luogu.com.cn/problem/P1462) |      | 二分即可<br>略                                |
+| [[USACO2.4]牛的旅行 Cow Tours](https://www.luogu.com.cn/problem/P1522) |      | floyd 理解题意枚举即可<br>acwing 有同题<br>略 |
 
 
 
@@ -609,18 +609,18 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解 | NOTE                                                         |
+| ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| [【模板】最小生成树](https://www.luogu.com.cn/problem/P3366) |      |                                                              |
+| [[USACO07DEC]Building Roads S](https://www.luogu.com.cn/problem/P2872) |      | 部分边已有的最小生成树<br>略                                 |
+| [无线通讯网](https://www.luogu.com.cn/problem/P1991)         |      | 1. 二分即可<br>2. 获取最小生成树 第 `p - s` 条边<br>    (剩余边都可直接用卫星电话代替)<br>略 |
+| [[NOIP2013 提高组] 货车运输](https://www.luogu.com.cn/problem/P1967) |      | 最大生成树 + 倍增<br>略                                      |
+| [[JSOI2010]部落划分](https://www.luogu.com.cn/problem/P4047) |      | 1. 二分即可<br>2. 暴力建边跑最小生成树 复杂度较高<br>略      |
+| [营救](https://www.luogu.com.cn/problem/P1396)               |      | 1. 最小生成树 + 连通性判断即可<br>    虽然也可以 ST 表维护一下但是对于单次查询显然没必要<br>2. 二分 + 最短路即可<br>略 |
+| [拆地毯](https://www.luogu.com.cn/problem/P2121)             |      | k 条边的最大生成树即可<br>略                                 |
+| [买礼物](https://www.luogu.com.cn/problem/P1194)             |      | 加虚拟节点跑最小生成树即可 处理重边<br>略                    |
+| [口袋的天空](https://www.luogu.com.cn/problem/P1195)         |      | 连 `n - k` 条边的最小代价 跑最小生成树即可<br>略             |
+| [[BJWC2010]严格次小生成树](https://www.luogu.com.cn/problem/P4180) |      | 模版题 倍增优化<br>略                                        |
 
 
 
