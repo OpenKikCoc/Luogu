@@ -628,16 +628,16 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解                        | NOTE                                                         |
+| ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ |
+| [【模板】缩点](https://www.luogu.com.cn/problem/P3387)       | [here](./Problems/P3387.md) | **模版** `dfn[u] == low[u]`<br>**tarjan 结束后的再建边跑拓扑 注意遍历顺序**<br>补充知识：***tarjan 后 scc 的递减序已经是拓扑序*** |
+| [【模板】割点（割顶）](https://www.luogu.com.cn/problem/P3388) | [here](./Problems/P3388.md) | **模版 `dfn[u] <= low[j]`**<br>两种情况：1.跟节点有多于两个子 2.非根dfn low<br>遍历跑 tarjan 时需更新 root |
+| [[USACO03FALL][HAOI2006]受欢迎的牛 G](https://www.luogu.com.cn/problem/P2341) |                             |                                                              |
+| [[USACO06JAN]The Cow Prom S](https://www.luogu.com.cn/problem/P2863) | [here](./Problems/P2863.md) | 简单模版                                                     |
+| [[USACO5.3]校园网Network of Schools](https://www.luogu.com.cn/problem/P2746) |                             |                                                              |
+| [上白泽慧音](https://www.luogu.com.cn/problem/P1726)         | [here](./Problems/P1726.md) | 简单模版                                                     |
+| [[NOIP2018 提高组] 旅行](https://www.luogu.com.cn/problem/P5022) | [here](./Problems/P5022.md) | **暴力 + 剪枝**                                              |
+| [间谍网络](https://www.luogu.com.cn/problem/P1262)           | [here](./Problems/P1262.md) | **缩点 + 拓扑**<br>计算入度算消耗的思路                      |
 
 
 
@@ -645,16 +645,16 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解                        | NOTE                    |
+| ------------------------------------------------------------ | --------------------------- | ----------------------- |
+| [[USACO1.5][IOI1994]数字三角形 Number Triangles](https://www.luogu.com.cn/problem/P1216) |                             |                         |
+| [[SHOI2002]滑雪](https://www.luogu.com.cn/problem/P1434)     |                             |                         |
+| [[NOIP1996 提高组] 挖地雷](https://www.luogu.com.cn/problem/P2196) |                             | 搜索即可<br>略          |
+| [最大食物链计数](https://www.luogu.com.cn/problem/P4017)     |                             | 拓扑排序 计数即可<br>略 |
+| [[NOIP2005 普及组] 采药](https://www.luogu.com.cn/problem/P1048) |                             |                         |
+| [疯狂的采药](https://www.luogu.com.cn/problem/P1616)         |                             |                         |
+| [5倍经验日](https://www.luogu.com.cn/problem/P1802)          | [here](./Problems/P1802.md) | **01背包简单变形**      |
+| [[NOIP2002 普及组\] 过河卒](https://www.luogu.com.cn/problem/P1002) |                             |                         |
 
 
 
