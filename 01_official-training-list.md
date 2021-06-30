@@ -662,18 +662,18 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解                        | NOTE                                                         |
+| ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ |
+| [[NOIP1999 普及组] 导弹拦截](https://www.luogu.com.cn/problem/P1020) |                             |                                                              |
+| [【模板】最长公共子序列](https://www.luogu.com.cn/problem/P1439) |                             |                                                              |
+| [尼克的任务](https://www.luogu.com.cn/problem/P1280)         | [here](./Problems/P1280.md) | 排序 贪心 背包                                               |
+| [编辑距离](https://www.luogu.com.cn/problem/P2758)           |                             |                                                              |
+| [[NOIP2003 提高组] 加分二叉树](https://www.luogu.com.cn/problem/P1040) |                             |                                                              |
+| [大师](https://www.luogu.com.cn/problem/P4933)               | [here](./Problems/P4933.md) | 求形成等差序列的子序列方案数<br>**状态定义和转移 实现**      |
+| [[NOIP2012 普及组] 摆花](https://www.luogu.com.cn/problem/P1077) | [here](./Problems/P1077.md) | 分组背包即可<br>**重点在于部分情况下分组背包可以前缀和优化**<br>以及【**生成函数**】解法 |
+| [木棍加工](https://www.luogu.com.cn/problem/P1233)           |                             | 转化为 LIS 问题的思维<br>略                                  |
+| [[NOIP2004 提高组] 合唱队形](https://www.luogu.com.cn/problem/P1091) |                             |                                                              |
+| [「SWTR-03」Golden Sword](https://www.luogu.com.cn/problem/P5858) |                             | 单调队列优化 形式转化<br>略                                  |
 
 
 
@@ -681,16 +681,16 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解                         | NOTE                                                         |
+| ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| [关路灯](https://www.luogu.com.cn/problem/P1220)             |                              | 多一维记录在左侧还是右侧即可<br>略                           |
+| [[HNOI2010]合唱队](https://www.luogu.com.cn/problem/P3205)   | [here](./Problems/P3205.md)  | 统计方案数 流程                                              |
+| [[NOI1995] 石子合并](https://www.luogu.com.cn/problem/P1880) |                              |                                                              |
+| [[NOIP2006 提高组] 能量项链](https://www.luogu.com.cn/problem/P1063) |                              |                                                              |
+| [[NOIP2007 提高组] 矩阵取数游戏](https://www.luogu.com.cn/problem/P1005) |                              | **每行相互独立互不影响**<br>**各行跑区间dp算最值即可**       |
+| [[USACO16OPEN]248 G](https://www.luogu.com.cn/problem/P3146) |                              | 区间dp合并时判断是否相同(且不为0)即可                        |
+| [[CQOI2007]涂色](https://www.luogu.com.cn/problem/P4170)     |                              | **【经典涂色问题】**<br>两种思路:<br>1. 判断两侧相同则 `f[l][r] = f[l + 1][r - 1]` 否则遍历分两段<br>2. 直接令 `f[l][r] = f[l][r - 1] ` 随后判断中间是否有出现过同色 再分段 |
+| [Zuma](https://www.luogu.com.cn/problem/CF607B)              | [here](./Problems/CF607B.md) | **经典**<br>题面回文但非回文处理                             |
 
 
 
@@ -700,17 +700,17 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解                              | NOTE                                                        |
+| ------------------------------------------------------------ | --------------------------------- | ----------------------------------------------------------- |
+| [没有上司的舞会](https://www.luogu.com.cn/problem/P1352)     |                                   |                                                             |
+| [二叉苹果树](https://www.luogu.com.cn/problem/P2015)         |                                   |                                                             |
+| [[CTSC1997]选课](https://www.luogu.com.cn/problem/P2014)     |                                   | 树形分组背包                                                |
+| [跑路](https://www.luogu.com.cn/problem/P1613)               |                                   |                                                             |
+| [采蘑菇](https://www.luogu.com.cn/problem/P2656)             | [here](./Problems/P2656.md)       | **经典**<br>缩点 + 拓扑 + dp                                |
+| [[NOIP2003 提高组] 加分二叉树](https://www.luogu.com.cn/problem/P1040) |                                   |                                                             |
+| [最大子树和](https://www.luogu.com.cn/problem/P1122)         |                                   |                                                             |
+| [[ZJOI2006]三色二叉树](https://www.luogu.com.cn/problem/P2585) | [here](./Problems/P2585.md)       | **经典树dp流程**<br>细节处理起来有点麻烦                    |
+| [有线电视网](https://www.luogu.com.cn/problem/P1273)         | [here](./Problems/P1273.md) AGAIN | **经典的树形分组dp变形**<br>【**状态设计 转移**】<br>反复做 |
 
 
 
