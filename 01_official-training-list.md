@@ -718,14 +718,14 @@
 
 
 
-| 题目 | 题解 | NOTE |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| 题目                                                         | 题解                        | NOTE                                                         |
+| ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ |
+| [[SCOI2005]互不侵犯](https://www.luogu.com.cn/problem/P1896) |                             |                                                              |
+| [邦邦的大合唱站队](https://www.luogu.com.cn/problem/P3694)   | [here](./Problems/P3694.md) | **经典**<br>排列类问题 只要考虑已为前面的某些排列好 再考虑当前即可 |
+| [砝码称重](https://www.luogu.com.cn/problem/P1441)           | [here](./Problems/P1441.md) | **经典**<br>状压 + bitset优化                                |
+| [[NOI2001] 炮兵阵地](https://www.luogu.com.cn/problem/P2704) |                             | 状压记录本行和上一行的状态即可                               |
+| [[USACO06NOV]Corn Fields G](https://www.luogu.com.cn/problem/P1879) |                             | **经典**<br>预处理 + 递推即可                                |
+| [[USACO13NOV]No Change G](https://www.luogu.com.cn/problem/P3092) |                             | 类似【邦邦的大合唱站队】<br>只需二进制枚举已使用的硬币 记录其能够支付的商品未知<br>对于可以支付全部商品的状态统计消耗即可 |
 
 
 
