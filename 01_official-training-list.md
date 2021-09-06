@@ -362,7 +362,7 @@
 | [遍历问题](https://www.luogu.com.cn/problem/P1229)           | [here](./Problems/P4715.md) | **经典**<br/>树       |
 | [新二叉树](https://www.luogu.com.cn/problem/P1305)           |                             |                       |
 | [[NOIP2001 普及组] 求先序排列](https://www.luogu.com.cn/problem/P1030) |                             |                       |
-| [[JLOI2009\]二叉树问题](https://www.luogu.com.cn/problem/P3884) | [here](./Problems/P3884.md) | LCA                   |
+| [[JLOI2009]二叉树问题](https://www.luogu.com.cn/problem/P3884) | [here](./Problems/P3884.md) | LCA                   |
 | [绘制二叉树](https://www.luogu.com.cn/problem/P1185)         |                             |                       |
 
 
